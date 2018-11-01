@@ -1,0 +1,11 @@
+/Users/aluno/Projects/sistemaaposentadoria/sistemaaposentadoria/bin/Debug/netcoreapp2.1/sistemaaposentadoria.deps.json
+/Users/aluno/Projects/sistemaaposentadoria/sistemaaposentadoria/bin/Debug/netcoreapp2.1/sistemaaposentadoria.runtimeconfig.json
+/Users/aluno/Projects/sistemaaposentadoria/sistemaaposentadoria/bin/Debug/netcoreapp2.1/sistemaaposentadoria.runtimeconfig.dev.json
+/Users/aluno/Projects/sistemaaposentadoria/sistemaaposentadoria/bin/Debug/netcoreapp2.1/sistemaaposentadoria.dll
+/Users/aluno/Projects/sistemaaposentadoria/sistemaaposentadoria/bin/Debug/netcoreapp2.1/sistemaaposentadoria.pdb
+/Users/aluno/Projects/sistemaaposentadoria/sistemaaposentadoria/obj/Debug/netcoreapp2.1/sistemaaposentadoria.csprojAssemblyReference.cache
+/Users/aluno/Projects/sistemaaposentadoria/sistemaaposentadoria/obj/Debug/netcoreapp2.1/sistemaaposentadoria.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/sistemaaposentadoria/sistemaaposentadoria/obj/Debug/netcoreapp2.1/sistemaaposentadoria.AssemblyInfoInputs.cache
+/Users/aluno/Projects/sistemaaposentadoria/sistemaaposentadoria/obj/Debug/netcoreapp2.1/sistemaaposentadoria.AssemblyInfo.cs
+/Users/aluno/Projects/sistemaaposentadoria/sistemaaposentadoria/obj/Debug/netcoreapp2.1/sistemaaposentadoria.dll
+/Users/aluno/Projects/sistemaaposentadoria/sistemaaposentadoria/obj/Debug/netcoreapp2.1/sistemaaposentadoria.pdb

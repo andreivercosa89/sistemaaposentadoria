@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sistemaaposentadoria", "sistemaaposentadoria\sistemaaposentadoria.csproj", "{AE7C7778-7E1D-40D2-A581-BB54BF5E9D5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE7C7778-7E1D-40D2-A581-BB54BF5E9D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7C7778-7E1D-40D2-A581-BB54BF5E9D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7C7778-7E1D-40D2-A581-BB54BF5E9D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7C7778-7E1D-40D2-A581-BB54BF5E9D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

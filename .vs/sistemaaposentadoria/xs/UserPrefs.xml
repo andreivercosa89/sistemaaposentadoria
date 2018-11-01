@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{AE7C7778-7E1D-40D2-A581-BB54BF5E9D5F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sistemaaposentadoria/Program.cs">
+    <Files>
+      <File FileName="sistemaaposentadoria/Program.cs" Line="9" Column="13" />
+      <File FileName="sistemaaposentadoria/Aposentadoria.cs" Line="6" Column="9" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.sistemaaposentadoria PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>
